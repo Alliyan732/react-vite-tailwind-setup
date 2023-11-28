@@ -1,9 +1,2 @@
-# React + Vite + Tailwind Template
-
-```
-npm install
-```
-
-```
-npm run dev
-```
+# react-vite-tailwind-setup
+This is react + vite + tailwind project setup / template
